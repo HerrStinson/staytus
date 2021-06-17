@@ -1,6 +1,8 @@
-**What is the purpose of this fork?** We saw many usefull pull requests on the project which were not merged.
+**What is the purpose of this fork?** 
+Based on the fork from agdsn (they wrote "We saw many usefull pull requests on the project which were not merged.
 As we needed them for our statuspage, we decided to fork the project and merge those PRs.
-Our aim is to stay compatible to the original project by adamcooke.
+Our aim is to stay compatible to the original project by adamcooke.")
+I was missing some other features which were available and waiting in pull requests, so I expanded on that idea.
 
 ---
 
